@@ -8,9 +8,6 @@
 <input type="button" style="width:100px;height:50px" onclick="location.href=''" value="検索">
 <BR>
 
-	
-	
-
 <table>
 <thead><tr>
 	<th>BookID</th><th>title</th><th>genreID</th><th>genre</th><th>price</th><th>sales</th>
